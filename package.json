@@ -30,7 +30,7 @@
     "@builder.io/qwik": "^1.5.2",
     "@builder.io/qwik-city": "^1.5.2",
     "@types/eslint": "^8.56.6",
-    "@types/node": "^20.11.30",
+    "@types/node": "^20.12.7",
     "@typescript-eslint/eslint-plugin": "^7.3.1",
     "@typescript-eslint/parser": "^7.3.1",
     "eslint": "^8.57.0",
@@ -40,5 +40,9 @@
     "undici": "*",
     "vite": "^5.1.6",
     "vite-tsconfig-paths": "^4.2.1"
+  },
+  "volta": {
+    "node": "20.12.2",
+    "yarn": "3.8.1"
   }
 }
